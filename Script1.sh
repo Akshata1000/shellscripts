@@ -6,5 +6,5 @@ echo "Welcome to Young Minds"
 echo "Hello batch-20, We are learning jenkins"
 echo "Hello aws/devops-batch-20"
 echo "Hello aws/devops-batch-21"
-echo "Hello aws/devops-batch-22"
+echo "Hello aws/devops-batch-23"
 
